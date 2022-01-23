@@ -1,1 +1,2 @@
 this is good code.
+This code is also good.
